@@ -1,0 +1,20 @@
+PODS:
+  - NosmaiCameraSDK (3.0.7)
+  - WebRTC-SDK (144.7559.09)
+
+DEPENDENCIES:
+  - NosmaiCameraSDK (= 3.0.7)
+  - WebRTC-SDK (= 144.7559.09)
+
+SPEC REPOS:
+  trunk:
+    - NosmaiCameraSDK
+    - WebRTC-SDK
+
+SPEC CHECKSUMS:
+  NosmaiCameraSDK: b914cb19ea0f88faf537e726f0b09bfa20ba3bc7
+  WebRTC-SDK: e6006119cd730d6315d875e4a421b6cc8bb88833
+
+PODFILE CHECKSUM: 4d0da7eacf199f245c7f7f1a5be40c29d47a5099
+
+COCOAPODS: 1.17.0
